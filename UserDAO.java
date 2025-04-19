@@ -1,8 +1,8 @@
-package main.dao;
+package smartcampus.dao;
 
-import main.model.User;
-import main.Database;
 import java.sql.*;
+import smartcampus.Database;
+import smartcampus.model.User;
 
 public class UserDAO {
     
